@@ -1,0 +1,16 @@
+- Internet Tool:
+  + Filezilla (Connect sftp)
+  + Postman (Test API)
+  + Pidgin (Chat linux note: use plugin SIPE)
+  + Thunderbird Mail
+- programming:
+  + Intellij (IDE program Perl free).
+  + PHPStorm (IDE program PHP no free).
+  + Netbeans IDE 8
+  + Eclipse
+  + MySQL Workbench
+  + Smart SVN
+- System tool:
+  + Htop
+  + Oracle VM VirtualBox
+  + Terminator
