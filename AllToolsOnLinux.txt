@@ -10,6 +10,7 @@
   + Eclipse
   + MySQL Workbench
   + Smart SVN
+  + Adminer
 - System tool:
   + Htop
   + Oracle VM VirtualBox
